@@ -7,7 +7,7 @@ def create_session_object():
     connection_parameters ={
         "account":"iob57586",
         "user":"prakloga",
-        "password":"Sanjit@23",
+        "password":"",
         "role":"SYSADMIN",
         "warehouse":"COMPUTE_WH",
         "database":"DEMO_DB",
